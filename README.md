@@ -20,12 +20,6 @@ A production-ready, AI-powered nutrition tracking application built with **Flutt
 
 ---
 
-## 📱 Screenshots
-
-> Coming soon
-
----
-
 ## 🛠️ Tech Stack
 
 - **Framework:** Flutter (Dart)
@@ -107,16 +101,3 @@ lib/
 ├── providers/        # Riverpod state management
 └── services/         # Health, Nutrition, Barcode, Analysis APIs
 ```
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙌 Author
-
-**Priyanshu**  
-Built with ❤️ using Flutter
